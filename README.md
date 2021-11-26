@@ -2,7 +2,7 @@
 
 ## Objective
 
-Study low level programming using the assembly language for the MOS 6502 processor. More specifically targeting the 6507 variant present in the ATARI 2600. 
+To study low level programming using the assembly language for the MOS 6502 processor. More specifically targeting the 6507 variant present in the ATARI 2600. 
 
 ## Running the code 
 To run the programs listed here you will need:
