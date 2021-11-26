@@ -1,4 +1,4 @@
-# 6502_assembly
+# 6502 Assembly
 
 ## Objective
 
